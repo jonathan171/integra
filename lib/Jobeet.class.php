@@ -1,3 +1,5 @@
+
+<?php
 class Jobeet
 {
 	
@@ -12,3 +14,5 @@ class Jobeet
     return $text;
   }
 }
+
+?>
