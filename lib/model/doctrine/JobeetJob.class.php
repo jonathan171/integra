@@ -31,4 +31,5 @@ public function getLocationSlug()
   return Jobeet::slugify($this->getLocation());
 }
 
+
 }
